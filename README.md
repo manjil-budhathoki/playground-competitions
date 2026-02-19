@@ -1,2 +1,5 @@
-# playground-competitions
-🏆 Kaggle Playground Competitions
+# 🏆 Kaggle Playground Competitions
+
+**My solutions, insights, and leaderboard progress for Playground Series**
+
+
